@@ -1,0 +1,140 @@
+[
+  {
+    "ingredient": "green leaf lettuce",
+    "category": "vegetable",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyzFPfZAGYONPAU-Ik9tmFQShNECWvq1D1ew&s",
+    "calories": 8
+  },
+  {
+    "ingredient": "Bok choy",
+    "category": "vegetable",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/10/16/fresh-baby-bok-choy-in-wooden-bowl-on-wooden-surface.jpg.rend.hgtvcom.1280.960.suffix/1697479237849.jpeg",
+    "calories": 7
+  },
+  {
+    "ingredient": "Kale",
+    "category": "vegetable",
+    "image": "https://orgboxthailand.com/wp-content/uploads/2018/04/curledkale.png",
+    "calories": 10
+  },
+  {
+    "ingredient": "red cabbage",
+    "category": "vegetable",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpDBIuCzkWwEjmx03F0jyqWckNQtIccSZqA&s",
+    "calories": 10
+  },
+  {
+    "ingredient": "carrots",
+    "category": "vegetable",
+    "image": "https://static.toiimg.com/photo/105672842.cms",
+    "calories": 12
+  },
+  {
+    "ingredient": "avocado",
+    "category": "fruit",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocados-title-c32b587.jpg?quality=90&resize=556,505",
+    "calories": 120
+  },
+  {
+    "ingredient": "Tomato",
+    "category": "fruit",
+    "image": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb-732x549.jpg",
+    "calories": 18
+  },
+  {
+    "ingredient": "pineapple",
+    "category": "fruit",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUF7WtUltZAKr9xRqlerNefOrRbuR1fVabA&s",
+    "calories": 25
+  },
+  {
+    "ingredient": "mix berries",
+    "category": "fruit",
+    "image": "https://media.istockphoto.com/id/182187173/photo/isolated-berries.jpg?s=612x612&w=0&k=20&c=iBBvIdL39XuHATGIlNkKn6nAHfE_BTWkHiOs49IWlFU=",
+    "calories": 28
+  },
+  {
+    "ingredient": "Corn",
+    "category": "fruit",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShoWdSHinHRGftyKlR-C9uRHH1Z3PaWOOa3g&s",
+    "calories": 43
+  },
+  {
+    "ingredient": "Grilled Shrimp",
+    "category": "protein",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRx_fNLWaCleTEEm-HKttKTsLw02SqsbtZQ&s",
+    "calories": 98
+  },
+  {
+    "ingredient": "Grilled Chicken Breast",
+    "category": "protein",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/grilled-chicken-breast-index-6626cdb057b5b.jpg?crop=0.503xw:1.00xh;0.249xw,0&resize=1200:*",
+    "calories": 165
+  },
+  {
+    "ingredient": "Bacon",
+    "category": "protein",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2019/11/Bacon-rashers-in-a-pan-72c07f4.jpg?resize=700%2C366",
+    "calories": 108
+  },
+  {
+    "ingredient": "Smoked Salmon",
+    "category": "protein",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPlRgSVvAT8gKEFLpR82HyNb2Ev_vrhU3ag&s",
+    "calories": 58
+  },
+  {
+    "ingredient": "Grilled Beef",
+    "category": "protein",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyfknePY3C7_i2uLxZQ95zSR7kZ6SWJ85jw&s",
+    "calories": 250
+  },
+  {
+    "ingredient": "Crouton",
+    "category": "dressing",
+    "image": "https://www.inspiredtaste.net/wp-content/uploads/2023/08/Homemade-Croutons-1200.jpg",
+    "calories": 81
+  },
+  {
+    "ingredient": "Barley",
+    "category": "dressing",
+    "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/295/295268/barley-grains-in-a-wooden-bowl.jpg",
+    "calories": 100
+  },
+  {
+    "ingredient": "Cashew Nut",
+    "category": "dressing",
+    "image": "https://post.healthline.com/wp-content/uploads/2019/10/cashew-nut-nuts-bowl-1296x728-header-1296x728.jpg",
+    "calories": 110
+  },
+  {
+    "ingredient": "Cream Dressing",
+    "category": "dressing",
+    "image": "https://img.taste.com.au/IndROIIK/taste/2016/11/creamy-mayonnaise-dressing-82649-1.jpeg",
+    "calories": 60
+  },
+  {
+    "ingredient": "Balsamic Dressing",
+    "category": "dressing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1uCLZcrqhCw3k-HSWbtt4itCSbqxxtKa-g&s",
+    "calories": 26
+  },
+  {
+    "ingredient": "Japanese Shoyu",
+    "category": "dressing",
+    "image": "https://cdn.media.amplience.net/i/japancentre/Cooking%20With%20Soy%20Sauce/Cooking-With-Soy-Sauce?w=1140&sm=c&fmt=auto",
+    "calories": 15
+  },
+  {
+    "ingredient": "Seafood Cream Dressing",
+    "category": "dressing",
+    "image": "https://therecipecritic.com/wp-content/uploads/2018/03/tuscangarlicshrimp-500x500.jpg",
+    "calories": 75
+  },
+  {
+    "ingredient": "Roast Sesame Dressing",
+    "category": "dressing",
+    "image": "https://hot-thai-kitchen.com/wp-content/uploads/2021/01/Sesame-Dressing-Blog.jpg",
+    "calories": 60
+  }
+]
